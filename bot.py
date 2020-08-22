@@ -5,7 +5,7 @@ import requests
 import warnings
 import wget
 
-TOKEN = 'NzQ2NTgwMjI3ODEwOTE4NDQx.X0CZBQ.uauebJ4ESH7uV_sjaaIskXqWDE8'
+TOKEN = 'Enter your token here'
 
 client = discord.Client()
 
